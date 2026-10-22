@@ -54,8 +54,8 @@ flowchart TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/SecretHunter-SecretLeakDetector.git
-cd SecretHunter-SecretLeakDetector
+git clone https://github.com/ravikantkumar0/SecretHunter.git
+cd SecretHunter
 ```
 
 ### 2. Create and Activate Virtual Environment
